@@ -5,3 +5,5 @@ My favorite desserts are
 3. ice cream
 4. cake
 5. pulla
+6. scones
+7. puddings
